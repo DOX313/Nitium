@@ -1,2 +1,2 @@
 # Nitium
-A codex to the biggining 
+A codex to the beginning
